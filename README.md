@@ -10,6 +10,7 @@ I gained programming experience during my Bachelor's in Computer Science courses
 
 ## My favorite meme is THIS
 <a href="">
-<img src="https://i.chzbgr.com/full/9617674240/h8813918F/86814-will-restore-peace-and-order-rome-by-restoring-republic-right-by-restoring-republic-right">
+<img src="![image](https://user-images.githubusercontent.com/48326484/133705537-887f6e63-b624-403a-9d16-f7124ad76320.png)">
 MEME
 </a>                                                                                                                                                   
+
