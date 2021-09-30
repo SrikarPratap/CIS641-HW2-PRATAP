@@ -29,3 +29,5 @@
 * Microsoft Excel, Microsoft Office
 # ABOUT ME
 * A result oriented student with a Bachelor’s degree in Computer Science and pursuing Master’s in Applied Computer Science at Grand Valley State University, Michigan. Looking for internship positions for Summer 2022 and willing to relocate.
+# TERM PROJECT
+CIS614
