@@ -1,3 +1,5 @@
+
+
 # SRIKAR PRATAP
 * Certified AWS Solutions Architect - Associate
 * Interested in Networking, Application Development and Blockchain
@@ -30,3 +32,8 @@
 # ABOUT ME
 * A result oriented student with a Bachelor’s degree in Computer Science and pursuing Master’s in Applied Computer Science at Grand Valley State University, Michigan. Looking for internship positions for Summer 2022 and willing to relocate.
 # TERM PROJECT
+As part of our team term project for CIS641, we are developing a ride share mobile application for students. This app really helps students who are new to the city, who does not own a car for travel, they can travel with ease and make new friends while travelling. The app connects users with a car and users who need a ride. Either driver or the user can post the details of the ride and the interested ones can reply to the post. I am responsible for Front-end and Devops of the application which will be deployed on  AWS.
+
+# CONTACT
+ * Email: <b> prataps@mail.gvsu.edu </b>
+ * LinkedIN: <b> https://www.linkedin.com/in/srikarpratap/ </b>
