@@ -1,8 +1,6 @@
 
-
-# SRIKAR PRATAP
-* Certified AWS Solutions Architect - Associate
-* Interested in Networking, Application Development and Blockchain
+* <b> Certified AWS Solutions Architect - Associate </b>
+* <b> Interested in Networking, Application Development and Blockchain </b>
 
 # EXPERIENCE
 ## Summer Intern (Network Architect), Virtusa Corporation, Bengaluru, India (07/21 – 08/21)
@@ -43,7 +41,7 @@
 # TERM PROJECT
 * As part of our team term project for CIS641, we are developing a ride share mobile application for students. This app really helps students who are new to the city, who does not own a car for travel, they can travel with ease and make new friends while travelling. The app connects users with a car and users who need a ride. Either driver or the user can post the details of the ride and the interested ones can reply to the post. I am responsible for Front-end and Devops of the application which will be deployed on  AWS.
 
-* *[CLICK HERE FOR THE PROJECT](https://purva8852.github.io/GVSU-CIS641-Team-S/) 
+* [CLICK HERE FOR THE PROJECT](https://purva8852.github.io/GVSU-CIS641-Team-S/) 
  
 # CONTACT
 * Email: <b> prataps@mail.gvsu.edu </b>
