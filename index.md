@@ -3,6 +3,7 @@
 * <b> Interested in Networking, Application Development and Blockchain </b>
 
 # EXPERIENCE
+
 ## Summer Intern (Network Architect), Virtusa Corporation, Bengaluru, India (07/21 – 08/21)
 * Learnt and implemented Operational Support Systems (OSS) and Business Support System (BSS) for BT network
 * Analyzed the flow of OSS operations for better BSS operations
